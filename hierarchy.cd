@@ -1,0 +1,207 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Location" Collapsed="true">
+    <Position X="17.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAAAAAAAAAAAAYAAAIAAAAAQAAAAAAAYAAAAAAAAAA=</HashCode>
+      <FileName>Asteroid_co.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Point" Collapsed="true">
+    <Position X="17.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAIkAACEAAAAAAAAAAMAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Asteroid_co.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="IAsteroid" Collapsed="true">
+    <Position X="14.25" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAAAAAAAAAAgAAEAAAhAAAAAAACAAAAIAAAAAAAAAE=</HashCode>
+      <FileName>Asteroid_co.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Asteroid" Collapsed="true">
+    <Position X="14.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QEAAAABAAAAAgACFEABpAASgAAAGAAABIAAAAAIAAAE=</HashCode>
+      <FileName>Asteroid_co.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="White_Warlic" Collapsed="true">
+    <Position X="12.25" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAEAAAAAgAAAAGAAAAAAAAAAAACAA=</HashCode>
+      <FileName>Asteroid_co.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Cold_White_Warlic" Collapsed="true">
+    <Position X="12.25" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAAAAAAAAAAAAAAEAAggABAAAAEAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Asteroid_co.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Brown_Warlic" Collapsed="true">
+    <Position X="14.25" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAgAIAEAAAAAAAAAAEAAAAAQAAAAAAAAA=</HashCode>
+      <FileName>Asteroid_co.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Neutron_Star" Collapsed="true">
+    <Position X="16.25" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAAAABAAAAAAAAEEAAAAAAgAAAEAACCAAAAAAAAAAE=</HashCode>
+      <FileName>Asteroid_co.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Dead_Star" Collapsed="true">
+    <Position X="16.25" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAAAAAAAACAAAAAEAAgAAAAAAAEAAAAAAABAAAAAAA=</HashCode>
+      <FileName>Asteroid_co.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="IFlyingPlate" Collapsed="true">
+    <Position X="30.25" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAQBAAAAAgAAA=</HashCode>
+      <FileName>Asteroid_co.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FlyingPlate" Collapsed="true">
+    <Position X="30.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AUAAAABAAAAAgAAgUgAAAAAgUAAFAAAAQBAgAAAiAAA=</HashCode>
+      <FileName>Asteroid_co.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Broke_FlyingPlate" Collapsed="true">
+    <Position X="29.25" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAAAAAAAAQAAAAEAAAAAAAAAAEAAAAAAAAAAAgAAA=</HashCode>
+      <FileName>Asteroid_co.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Angry_FlyingPlate" Collapsed="true">
+    <Position X="31.25" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAAAABAAAAAAAgAUAAAAAAgAAAEAAAAQBAAAAAgAAA=</HashCode>
+      <FileName>Asteroid_co.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Modify_FlyingPlate" Collapsed="true">
+    <Position X="31.25" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AUAAAABAAAAQAAAAUAAAAAAgAAAEAAAAABAAAAAAAAA=</HashCode>
+      <FileName>Asteroid_co.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="IShip" Collapsed="true">
+    <Position X="25.75" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAgAAAAQAAAAAAAAAAAAAACAA=</HashCode>
+      <FileName>Asteroid_co.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ship" Collapsed="true">
+    <Position X="25.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAAAABAAAAAACAAEAQAgAAgAQCGAAAAIAAAAgAASAA=</HashCode>
+      <FileName>Asteroid_co.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Broke_Ship" Collapsed="true">
+    <Position X="24.75" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAEAAAAAAAAAAEgAAAAAAAAAAACAA=</HashCode>
+      <FileName>Asteroid_co.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Infinity_Ship" Collapsed="true">
+    <Position X="27" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAAAABAAAAAAEAQEAAAgAAgAQAEAAAAAAAAAAAACAA=</HashCode>
+      <FileName>Asteroid_co.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ABullet" Collapsed="true">
+    <Position X="20.5" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAIAgAAAAAAAAAAAAAAAAAAAAAAACCAA=</HashCode>
+      <FileName>Asteroid_co.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Bullet" Collapsed="true">
+    <Position X="20.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAACAgEAAAAAAAAAAEAAAEIAAAAgAQAAA=</HashCode>
+      <FileName>Asteroid_co.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Yellow_Bullet" Collapsed="true">
+    <Position X="18.5" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAAEAAAAEAAAAAAAAAA=</HashCode>
+      <FileName>Asteroid_co.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Red_Bullet" Collapsed="true">
+    <Position X="22.5" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAIAABAAAAAAAAAAAAAAEAAQAAEAAAAQAAAA=</HashCode>
+      <FileName>Asteroid_co.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Green_Bullet" Collapsed="true">
+    <Position X="20.5" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAEAABAAAAAAAAAAAAAAAAMAAAAAACAAgAAAAA=</HashCode>
+      <FileName>Asteroid_co.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Blue_Bullet" Collapsed="true">
+    <Position X="20.5" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAABAAAAAAAAAAAAAAAAEAAAAAAEAAAAAAAA=</HashCode>
+      <FileName>Asteroid_co.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ABomb" Collapsed="true">
+    <Position X="8" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAEAQAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAqQAAA=</HashCode>
+      <FileName>Asteroid_co.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Bomb" Collapsed="true">
+    <Position X="8" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAAAAAAAAAAAIAAEIAAAAAAAAAEAAAAAAAAAACAgQA=</HashCode>
+      <FileName>Asteroid_co.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Red_Bomb" Collapsed="true">
+    <Position X="8" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAAAAAAAAAAAIAAAAAAAAAAAAAEAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Asteroid_co.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Purple_Bomb" Collapsed="true">
+    <Position X="6" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAEAAAAAAAAEAAAAAAAAAAEAAAACAAAAAAAAAA=</HashCode>
+      <FileName>Asteroid_co.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Green_Bomb" Collapsed="true">
+    <Position X="10" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAAACAAAAAAAAAIAAAAAAAAAIAAkAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Asteroid_co.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

@@ -1,0 +1,6 @@
+﻿  Game_main.cpp
+C:\Visual_studio_project\Fly_Plate\Game_main.cpp(26,6): warning C4273: GetConsoleWindow: несовместимое связывание dll
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\consoleapi3.h(167,1): message : см. предыдущее определение "GetConsoleWindow"
+C:\Visual_studio_project\Fly_Plate\Game_main.cpp(76,101): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Visual_studio_project\Fly_Plate\Game_main.cpp(76,66): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+  Fly_Plate.vcxproj -> C:\Visual_studio_project\Fly_Plate\x64\Debug\Fly_Plate.exe

@@ -5,8 +5,7 @@
  * Project Name  : Fly_Plate                                               *
  * Project Type  : Win64 Console application                               *
  * File Name     : Game_main.cpp                                           *
- * Language      : VS2022                         C++                      *
- * Programmers   : Викулов Д. Г.  &&  Куракина А. С  &&  Сашин А. Ю.       *
+ * Language      : VS2022                                                  *
  * Modified By   :                                                         *
  * Created       : 01 / 11 / 2023                                          *
  * Last Revision : 16 / 11 / 2023                                          *

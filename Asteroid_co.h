@@ -7,7 +7,7 @@
  * Project Type  : Win64 Console application                               *
  * File Name     : Asteroid_co.h                                           *
  * Language      : VS2022                         C++                      *
- * Programmers   : Викулов Д. Г.  &&  Куракина А. С  &&  Сашин А. Ю.       *
+ * Programmers   : Викулов Д. Г.                                           *
  * Modified By   :                                                         *
  * Created       : 01 / 11 / 2023                                          *
  * Last Revision : 16 / 11 / 2023                                          *
